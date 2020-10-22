@@ -1,0 +1,15 @@
+# Build settings
+# plugins:
+#   - jekyll-feed
+#   - jekyll-multiple-languages-plugin
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Multilang
+# languages: ["it", "en"]
+# exclude_from_localizations: ["assets"]
+# default_locale_in_subfolder: false
+
+permalink: pretty
